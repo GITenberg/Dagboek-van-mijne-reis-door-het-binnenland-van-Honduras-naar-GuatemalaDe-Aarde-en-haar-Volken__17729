@@ -1,0 +1,28 @@
+_repo: Dagboek-van-mijne-reis-door-het-binnenland-van-Honduras-naar-GuatemalaDe-Aarde-en-haar-Volken__17729
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Drielst, J. van
+    gutenberg_agent_id: '7568'
+    url: http://www.gutenberg.org/2009/agents/7568
+description: ''
+gutenberg_bookshelf: De Aarde en haar Volken
+gutenberg_issued: '2006-02-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17729'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Guatemala -- Description and travel'
+- !lcsh 'Honduras -- Description and travel'
+- !lcc 'F975'
+title: 'Dagboek van mijne reis door het binnenland van Honduras naar Guatemala
+
+  De Aarde en haar Volken, 1918'
+url: http://www.gutenberg.org/ebooks/17729
